@@ -118,3 +118,5 @@ jobs:
       run: |
         docker-compose up -d
 ```
+![image](https://github.com/vladosfpv/lab08/assets/57360144/35863c1e-675f-401d-8e21-fab317ae6e26)
+
